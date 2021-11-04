@@ -9,7 +9,7 @@
 --- | --- 
 <a href="https://dev.to/keev_loop"><img align="center" alt="..." src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  width="100%" height="100%"></a> | <a href="https://steamcommunity.com/id/keev-loop"><img align="center" alt="..." src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"  width="100%" height="100%"></a>
 
-<p><h4>Bel. Computer Enginner | Electronics Technician | Jr Backend Developer | Frontend Student | DevOps Student | Newbie Hackerman</h4></p>
+<pre><h4>Bel. Computer Enginner | Electronics Technician | Jr Backend Developer | Frontend Student | DevOps Student | Newbie Hackerman</h4></pre>
 
   #
   
