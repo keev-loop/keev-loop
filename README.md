@@ -6,14 +6,18 @@
   
 </div>
 
+
 <a href="https://github.com/keev-loop"><img align="center" alt="..." src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  width="100%" height="100%"></a> | <a href="https://www.linkedin.com/in/keven-lopes-silva"><img align="center" alt="..." src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" height="100%"></a>
 --- | --- 
 <a href="https://dev.to/keev_loop"><img align="center" alt="..." src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  width="100%" height="100%"></a> | <a href="https://steamcommunity.com/id/keev-loop"><img align="center" alt="..." src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"  width="100%" height="100%"></a>
 
 <pre><h4>Bel. Computer Enginner | Electronics Technician | Jr Backend Developer | Frontend Student | DevOps Student | Newbie Hackerman</h4></pre>
+<br>
 
   #
-  
+
+<br>
+
   <div align="center" style="display: inline-block">
     <a href="https://www.python.org/"><img align="center" alt="keev-loop-python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="https://www.w3schools.com/java/"><img align="center" alt="keev-loop-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
@@ -57,6 +61,7 @@
     <a href="https://www.android.com/"><img align="center" alt="keev-loop-android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
   </div> 
   
+  <br>
 
 <div align="center" style="display: inline-block">
   <br>
@@ -68,9 +73,13 @@
   <img align="center" alt="..." src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.webp" width="250px"> 
 </div>
 
+<br>
+
 #
 
+<br>
 <div align="center" style="display: inline-block">
   <img align="center" alt="..." src="https://i.giphy.com/media/4lpctAAV9Azpm/giphy.webp" height="auto" width="400px">
   <h2>Congratulations, you made it this far. Enjoy the day, and thank you!</h2>
 </div>
+<br>
