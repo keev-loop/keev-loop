@@ -1,15 +1,17 @@
-# >_ Ola, sou o Keven . . . <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div style="display: inline-block"><br>
+  <img align="right" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp">
+  <h1>>_ Ola, sou o Keven . . . <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/keev-loop)](https://github.com/keev-loop)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/keven-lopes-silva//)](https://www.linkedin.com/in/fagnerpsantos/)
-[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&link=https://github.com/keev-loop)](https://dev.to/keev_loop)
-[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/keev-loop/)](https://steamcommunity.com/id/keev-loop/)
-
-
+  <a href="https://github.com/keev-loop"><img align="center" alt="..." src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" ></a>
+  <a href="https://www.linkedin.com/in/keven-lopes-silva"><img align="center" alt="..." src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+  <a href="https://dev.to/keev_loop"><img align="center" alt="..." src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
+  <a href="https://steamcommunity.com/id/keev-loop"><img align="center" alt="..." src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" ></a>
+  
+</div>
+  
 [![PYTHON Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.w3schools.com/java/)
-[![JAVASCRIPT Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![JAVASCRIPT Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/)
 [![SHELL Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.learn-c.org/)
