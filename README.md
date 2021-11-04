@@ -2,21 +2,15 @@
   <br>
   <img align="right" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp">
   <h1>>_ Helloo World, i'm Keven . . . <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  _ :pizza: _ :video_game: _ :computer: _ :hamburger: </h1>
-
-  <a href="https://github.com/keev-loop"><img align="center" alt="..." src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" ></a>
-  <a href="https://www.linkedin.com/in/keven-lopes-silva"><img align="center" alt="..." src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-  <a href="https://dev.to/keev_loop"><img align="center" alt="..." src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" ></a>
-  <a href="https://steamcommunity.com/id/keev-loop"><img align="center" alt="..." src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" ></a>
   <br>
 </div>
 
-  - Electronics Technician
-  - Bachelor of Computer Engineering
-  - Junior Backend Developer
-  - Frontend Student
-  - DevOps Student
-  - Newbie Hackerman
-  
+<a href="https://github.com/keev-loop"><img align="center" alt="..." src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  width="100%" height="100%"></a> | <a href="https://www.linkedin.com/in/keven-lopes-silva"><img align="center" alt="..." src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%" height="100%"></a>
+--- | --- 
+<a href="https://dev.to/keev_loop"><img align="center" alt="..." src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  width="100%" height="100%"></a> | <a href="https://steamcommunity.com/id/keev-loop"><img align="center" alt="..." src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"  width="100%" height="100%"></a>
+<br>
+<p><h4>Bel. Computer Enginner | Electronics Technician | Jr Backend Developer | Frontend Student | DevOps Student | Newbie Hackerman</h4></p>
+
   #
   
   <div align="center" style="display: inline-block">
