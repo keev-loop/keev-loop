@@ -69,4 +69,7 @@
 
 #
 
-
+<div align="center" style="display: inline-block">
+  <img align="center" alt="..." src="https://i.giphy.com/media/4lpctAAV9Azpm/giphy.webp" height="auto" width="400px">
+  <h2>Congratulations, you made it this far. Enjoy the day, and thank you!</h2>
+</div>
