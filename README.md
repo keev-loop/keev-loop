@@ -6,13 +6,22 @@
   
 </div>
 
-<a href="https://github.com/keev-loop"><img align="center" alt="..." src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="150px"></a> 
-<a href="https://steamcommunity.com/id/keev-loop"><img align="center" alt="..." src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="150px">
+<a href="https://github.com/keev-loop">
+  <img align="center" alt="..." src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="150px">
+</a> 
+<a href="https://steamcommunity.com/id/keev-loop">
+  <img align="center" alt="..." src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" width="150px">
+</a>
 <br>
-<a href="https://dev.to/keev_loop"><img align="center" alt="..." src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" width="150px"></a>
-<a href="https://www.linkedin.com/in/keven-lopes-silva"><img align="center" alt="..." src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150px"></a>
+<a href="https://dev.to/keev_loop">
+  <img align="center" alt="..." src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" width="150px">
+</a>
+<a href="https://www.linkedin.com/in/keven-lopes-silva">
+  <img align="center" alt="..." src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150px">
 </a>
 
+<br>
+<br>
 <pre><h4>Bel. Computer Enginner | Electronics Technician | Jr Backend Developer | Frontend Student | DevOps Student | Newbie Hackerman</h4></pre>
 <br>
 
@@ -21,46 +30,114 @@
 <br>
 
   <div align="center" style="display: inline-block">
-    <a href="https://www.python.org/"><img align="center" alt="keev-loop-python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-    <a href="https://www.w3schools.com/java/"><img align="center" alt="keev-loop-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-    <a href="https://www.javascript.com/"><img align="center" alt="keev-loop-javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></a>
-    <a href="#"><img align="center" alt="keev-loop-shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-    <a href="https://www.php.net/"><img align="center" alt="keev-loop-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-    <a href="https://www.learn-c.org/"><img align="center" alt="keev-loop-c" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-    <a href="https://www.w3schools.com/CPP/"><img align="center" alt="keev-loop-cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://www.python.org/">
+      <img align="center" alt="keev-loop-python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </a>
+    <a href="https://www.w3schools.com/java/">
+      <img align="center" alt="keev-loop-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    </a>
+    <a href="https://www.javascript.com/">
+      <img align="center" alt="keev-loop-javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+    </a>
+    <a href="#">
+      <img align="center" alt="keev-loop-shell" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    </a>
+    <a href="https://www.php.net/">
+      <img align="center" alt="keev-loop-php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    </a>
+    <a href="https://www.learn-c.org/">
+      <img align="center" alt="keev-loop-c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    </a>
+    <a href="https://www.w3schools.com/CPP/">
+      <img align="center" alt="keev-loop-cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    </a>
+    <a href="#">
+      <img align="center" alt="keev-loop-assembly" src="https://img.shields.io/badge/assembly-000000?style=for-the-badge&logo=assembly&logoColor=white">
+    </a>
   </div>
-  
+
 <br>
     
    <div align="center" style="display: inline-block">
-    <a href="https://spring.io/"><img align="center" alt="keev-loop-spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
-    <a href="https://flask.palletsprojects.com/"><img align="center" alt="keev-loop-flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-    <a href="https://www.djangoproject.com/"><img align="center" alt="keev-loop-django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-    <a href="https://reactjs.org/"><img align="center" alt="keev-loop-react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="https://laravel.com/"><img align="center" alt="keev-loop-laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
-    <a href="https://www.mysql.com/"><img align="center" alt="keev-loop-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="https://www.sqlite.org/"><img align="center" alt="keev-loop-sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+    <a href="https://spring.io/">
+      <img align="center" alt="keev-loop-spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    </a>
+    <a href="https://flask.palletsprojects.com/">
+      <img align="center" alt="keev-loop-flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    </a>
+    <a href="https://www.djangoproject.com/">
+      <img align="center" alt="keev-loop-django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    </a>
+    <a href="https://reactjs.org/">
+      <img align="center" alt="keev-loop-react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    </a>
+    <a href="https://laravel.com/">
+      <img align="center" alt="keev-loop-laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+    </a>
+    <a href="https://www.mysql.com/">
+      <img align="center" alt="keev-loop-mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    </a>
+    <a href="https://www.sqlite.org/">
+      <img align="center" alt="keev-loop-sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    </a>
+    <a href="https://quarkus.io/">
+	    <img align="center" alt="..." src="https://img.shields.io/badge/-Quarkus-000000?style=for-the-badge&logo=quarkus&logoColor=white">
+    </a>
+    <a href="https://fastapi.tiangolo.com/">
+      <img align="center" alt="..." src="https://img.shields.io/badge/-FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white">
+    </a>
   </div>
   
   <br>
   
   <div align="center" style="display: inline-block">
-    <a href="https://www.w3schools.com/html/"><img align="center" alt="keev-loop-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-    <a href="https://www.w3schools.com/css/"><img align="center" alt="keev-loop-css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></a>
-    <a href="https://nodejs.org/"><img align="center" alt="keev-loop-nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
-    <a href="https://getbootstrap.com/"><img align="center" alt="keev-loop-bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="https://jquery.com/"><img align="center" alt="keev-loop-jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
-    <a href="https://aws.amazon.com/"><img align="center" alt="keev-loop-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    <a href="https://www.heroku.com/"><img align="center" alt="keev-loop-heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></a>
-    
+    <a href="https://www.w3schools.com/html/">
+      <img align="center" alt="keev-loop-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    </a>
+    <a href="https://www.w3schools.com/css/">
+      <img align="center" alt="keev-loop-css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    </a>
+    <a href="https://nodejs.org/">
+      <img align="center" alt="keev-loop-nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    </a>
+    <a href="https://getbootstrap.com/">
+      <img align="center" alt="keev-loop-bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    </a>
+    <a href="https://jquery.com/">
+      <img align="center" alt="keev-loop-jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    </a>
+    <a href="https://insomnia.rest/">
+      <img align="center" alt="..." src="https://img.shields.io/badge/-Insomnia-663399?style=for-the-badge&logo=insomnia&logoColor=white">
+    </a>
+    <a href="https://www.apachefriends.org">
+      <img align="center" alt="..." src="https://img.shields.io/badge/-Xampp-E34F26?style=for-the-badge&logo=xampp&logoColor=white">
+    </a>
+    <a href="https://wordpress.com/">
+      <img align="center" alt="..." src="https://img.shields.io/badge/-Wordpress-117ac9?style=for-the-badge&logo=wordpress&logoColor=white">
+    </a>
+    <a href="https://jupyter.org/">
+      <img align="center" alt="..." src="https://img.shields.io/badge/-Jupyter-E46E2E?style=for-the-badge&logo=jupyter&logoColor=white">
+    </a>
   </div> 
   
   <br>
   
   <div align="center" style="display: inline-block">
-    <a href="https://ubuntu.com/"><img align="center" alt="keev-loop-ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="https://www.microsoft.com/windows/"><img align="center" alt="keev-loop-windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-    <a href="https://www.android.com/"><img align="center" alt="keev-loop-android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+    <a href="https://ubuntu.com/">
+      <img align="center" alt="keev-loop-ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    </a>
+    <a href="https://www.microsoft.com/windows/">
+      <img align="center" alt="keev-loop-windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    </a>
+    <a href="https://www.android.com/">
+      <img align="center" alt="keev-loop-android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    </a>
+    <a href="https://aws.amazon.com/">
+      <img align="center" alt="keev-loop-aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    </a>
+    <a href="https://www.heroku.com/">
+      <img align="center" alt="keev-loop-heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    </a>
   </div> 
   
   <br>
