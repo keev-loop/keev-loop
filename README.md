@@ -29,7 +29,7 @@
     <a href="https://www.w3schools.com/CPP/"><img align="center" alt="keev-loop-cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
   </div>
   
-    <br>
+<br>
     
    <div align="center" style="display: inline-block">
     <a href="https://spring.io/"><img align="center" alt="keev-loop-spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
@@ -63,6 +63,16 @@
   </div> 
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keev-loop&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keev-loop&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" style="display: inline-block">
+  <br>
+  <img align="center" alt="..." src="https://c.tenor.com/Dq8nm__4of0AAAAC/gimme-code-gimme.gif" width="225px">
+  <img align="center" alt="..." src="https://github-readme-stats.vercel.app/api?username=keev-loop&show_icons=true&theme=tokyonight" height="auto" width="575px">
+</div>
+<div align="center" style="display: inline-block">
+  <img align="center" alt="..." src="https://github-readme-stats.vercel.app/api/top-langs/?username=keev-loop&theme=tokyonight&layout=compact" height="auto" width="550px">
+  <img align="center" alt="..." src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.webp" width="250px"> 
+</div>
+
+#
 
 
