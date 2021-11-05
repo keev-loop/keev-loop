@@ -22,7 +22,7 @@
 
 <br>
 <br>
-<pre><h4>Bel. Computer Enginner | Electronics Technician | Jr Backend Developer | Frontend Student | DevOps Student | Newbie Hackerman</h4></pre>
+<pre><h4>Bel. Computer Engineering | Electronics Technician | Jr Backend Developer | Frontend Student | DevOps Student | Newbie Hackerman</h4></pre>
 <br>
 
   #
