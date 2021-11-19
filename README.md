@@ -148,7 +148,7 @@
   <img align="center" alt="..." src="https://github-readme-stats.vercel.app/api?username=keev-loop&show_icons=true&theme=tokyonight" height="auto" width="575px">
 </div>
 <div align="center" style="display: inline-block">
-  <img align="center" alt="..." src="https://github-readme-stats.vercel.app/api/top-langs/?username=keev-loop&theme=tokyonight&layout=compact&langs_count=7" height="auto" width="550px">
+  <img align="center" alt="..." src="https://github-readme-stats.vercel.app/api/top-langs/?username=keev-loop&theme=tokyonight&layout=compact&langs_count=8" height="auto" width="500px">
   <img align="center" alt="..." src="https://i.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.webp" width="250px"> 
 </div>
 
