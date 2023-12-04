@@ -2,7 +2,7 @@
 <div style="display: inline-block">
   <br>
   <img align="right" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp">
-  <h1><pre class="tab">  i'm Keven . . .</pre><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> _ :pizza: _ :video_game: _ :computer: _ :hamburger: </h1>
+  <h1><pre class="tab">  i'm Keven . . .</pre><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
   
 </div>
 
